@@ -1,0 +1,28 @@
+.post{
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #c4a9e4;
+}
+
+.post a{
+    text-decoration: none;
+}
+
+.name{
+    color: rgb(140, 59, 233);
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.body{
+    color: rgb(140, 59, 233);
+    font-size: 16px;
+    margin-bottom: 10px;
+}
